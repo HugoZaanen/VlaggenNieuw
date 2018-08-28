@@ -12,7 +12,7 @@ using System.IO;
 
 namespace flags
 {
-    //test bericht 4
+    //test bericht 5
     public partial class Form1 : Form
     {
         string[] files = Directory.GetFiles(@"flags/", "*.png");
